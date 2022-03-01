@@ -1,0 +1,52 @@
+/*Music Store CSS File*/
+/*--------------------*/
+.navbar-h1{
+    color: darkviolet; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:larger;
+    text-align: center;
+}
+
+.navbar-h2{
+    color:darkslategrey;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+    text-align: center;
+    background-color:lightgray;
+}
+
+.content-h2{
+    color:blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    text-align: center;
+}
+.content-h3{
+    color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    text-align: center;
+}
+
+.content-r{
+    color: black;
+    text-align: center;
+}
+
+.instrument{
+    color:brown;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.image{
+    align-items: center;
+    border: 5px double black;
+}
+
+.footer{
+    color:darkolivegreen;
+    text-align: center;
+    font-size: small;
+}
