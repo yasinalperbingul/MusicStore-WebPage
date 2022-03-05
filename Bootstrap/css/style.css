@@ -28,6 +28,25 @@ a:hover {
     background-color:lightyellow;
 }
 
+.buy-block{
+    background: linear-gradient(90deg,#50394c,rgba(91, 70, 110, 0.6));
+    border-radius: 9999px;
+    color: white;
+}
+
+.buy-block:hover{
+    color:antiquewhite;
+}
+
+.instrument-box{
+    margin:20px;
+    height: 500px;
+}
+
+.instrument-box:hover{
+    background-color:azure;
+}
+
 h3{
     font-size: larger;
     font-weight: 750;
@@ -60,6 +79,15 @@ h3{
 
 .links:hover{
     color:#ffef96;
+}
+
+.image{
+    align-items: center;
+    border: 5px double black;
+}
+
+.about-us-box{
+    height: 500px;
 }
 
 .footer{
